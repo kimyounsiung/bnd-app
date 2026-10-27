@@ -1,0 +1,15 @@
+{
+  "name": "띵동! 보넥도",
+  "short_name": "띵동 보넥도",
+  "description": "보넥도 소식·일정·영상·생카를 제일 빨리 모아 보는 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#2F4BFF",
+  "theme_color": "#2F4BFF",
+  "lang": "ko",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
